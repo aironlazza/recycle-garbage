@@ -6,13 +6,11 @@ body{
     background-color: rgb(238, 31, 31);
 }
 #main{
-    width:100vw;
-    height:100vh;
-    position:relative
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #tela{
-    width:100vw;
-    
-    /* margin-left: 5vmax; */
-    /* margin-top: 1vmin; */
+    width: 100vw;
+    height: 100vh;
 }
